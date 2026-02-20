@@ -8,25 +8,25 @@ track their status, and update them through a dashboard.
 
 ---
 
-## 🚀 Features
+## Features
 
-### 🔐 Admin Authentication
+### Admin Authentication
 - Secure admin login using JWT
 - Protected routes
 - Logout functionality
 
-### 📋 Lead Management
+###Lead Management
 - View all client leads
 - Track lead details (Name, Email, Source, Status)
 - Update lead status (New → Contacted → Converted)
 
-### 🎨 Frontend Dashboard
+### Frontend Dashboard
 - Built with React.js
 - Clean and user-friendly UI
 - Color-coded lead status
 - Real-time updates
 
-### 🗄️ Backend API
+###Backend API
 - Node.js & Express.js
 - REST APIs
 - MySQL database
@@ -34,7 +34,7 @@ track their status, and update them through a dashboard.
 
 ---
 
-## 🛠️ Tech Stack
+##Tech Stack
 
 **Frontend**
 - React.js
@@ -52,7 +52,7 @@ track their status, and update them through a dashboard.
 
 ---
 
-## 📁 Project Structure
+##Project Structure
 
 FUTURE_FS_02  
 ├── crm-backend  
@@ -60,7 +60,7 @@ FUTURE_FS_02
 
 ---
 
-## ⚙️ Setup Instructions
+##Setup Instructions
 
 ### Backend
 cd crm-backend
@@ -79,7 +79,7 @@ Backend runs on `http://localhost:5000`
 
 ---
 
-## 🎯 Task Objectives Completed
+##Task Objectives Completed
 
 - Secure admin access
 - Lead management system
@@ -89,7 +89,7 @@ Backend runs on `http://localhost:5000`
 
 ---
 
-## 👩‍💻 Author
+##Author
 
 **Sruthi divakarla**
 Future Interns – Full Stack Development Intern
