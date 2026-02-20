@@ -15,7 +15,7 @@ track their status, and update them through a dashboard.
 - Protected routes
 - Logout functionality
 
-###Lead Management
+### Lead Management
 - View all client leads
 - Track lead details (Name, Email, Source, Status)
 - Update lead status (New → Contacted → Converted)
@@ -26,7 +26,7 @@ track their status, and update them through a dashboard.
 - Color-coded lead status
 - Real-time updates
 
-###Backend API
+### Backend API
 - Node.js & Express.js
 - REST APIs
 - MySQL database
@@ -34,25 +34,25 @@ track their status, and update them through a dashboard.
 
 ---
 
-##Tech Stack
+## Tech Stack
 
-**Frontend**
+** Frontend **
 - React.js
 - HTML
 - CSS
 - JavaScript
 
-**Backend**
+** Backend **
 - Node.js
 - Express.js
 - JWT
 
-**Database**
+** Database **
 - MySQL
 
 ---
 
-##Project Structure
+## Project Structure
 
 FUTURE_FS_02  
 ├── crm-backend  
@@ -60,7 +60,7 @@ FUTURE_FS_02
 
 ---
 
-##Setup Instructions
+## Setup Instructions
 
 ### Backend
 cd crm-backend
@@ -79,7 +79,7 @@ Backend runs on `http://localhost:5000`
 
 ---
 
-##Task Objectives Completed
+## Task Objectives Completed
 
 - Secure admin access
 - Lead management system
@@ -89,7 +89,7 @@ Backend runs on `http://localhost:5000`
 
 ---
 
-##Author
+## Author
 
 **Sruthi divakarla**
 Future Interns – Full Stack Development Intern
